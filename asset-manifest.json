@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Veena-MadhuriMakke/tic-tac-toe.git/static/css/main.a18d2529.css",
-    "main.js": "/Veena-MadhuriMakke/tic-tac-toe.git/static/js/main.89f0a2f5.js",
-    "static/js/453.882586d9.chunk.js": "/Veena-MadhuriMakke/tic-tac-toe.git/static/js/453.882586d9.chunk.js",
-    "index.html": "/Veena-MadhuriMakke/tic-tac-toe.git/index.html",
-    "main.a18d2529.css.map": "/Veena-MadhuriMakke/tic-tac-toe.git/static/css/main.a18d2529.css.map",
-    "main.89f0a2f5.js.map": "/Veena-MadhuriMakke/tic-tac-toe.git/static/js/main.89f0a2f5.js.map",
-    "453.882586d9.chunk.js.map": "/Veena-MadhuriMakke/tic-tac-toe.git/static/js/453.882586d9.chunk.js.map"
+    "main.css": "/Veena-MadhuriMakke/tic-tac-toe/static/css/main.a18d2529.css",
+    "main.js": "/Veena-MadhuriMakke/tic-tac-toe/static/js/main.3e13b1a8.js",
+    "static/js/453.882586d9.chunk.js": "/Veena-MadhuriMakke/tic-tac-toe/static/js/453.882586d9.chunk.js",
+    "index.html": "/Veena-MadhuriMakke/tic-tac-toe/index.html",
+    "main.a18d2529.css.map": "/Veena-MadhuriMakke/tic-tac-toe/static/css/main.a18d2529.css.map",
+    "main.3e13b1a8.js.map": "/Veena-MadhuriMakke/tic-tac-toe/static/js/main.3e13b1a8.js.map",
+    "453.882586d9.chunk.js.map": "/Veena-MadhuriMakke/tic-tac-toe/static/js/453.882586d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a18d2529.css",
-    "static/js/main.89f0a2f5.js"
+    "static/js/main.3e13b1a8.js"
   ]
 }
